@@ -10,3 +10,6 @@
 
 *.html
 __pycache__
+
+indoor.code-workspace
+.vscode
